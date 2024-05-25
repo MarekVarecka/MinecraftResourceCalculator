@@ -1,0 +1,42 @@
+{
+  "recipes": [
+    {
+      "item": "Observer",
+      "ingredients": {
+        "Cobblestone": [1, 2, 3, 7, 8, 9],
+        "Redstone": [4, 6],
+        "Quartz": [5]
+      },
+      "quantity": 1
+    },
+    {
+      "item": "Piston",
+      "ingredients": {
+        "Wood Planks": [1, 2, 3],
+        "Cobblestone": [4, 7, 8],
+        "Iron Ingot": [5],
+        "Redstone": [6]
+      },
+      "quantity": 1
+    },
+    {
+      "item": "Sticky Piston",
+      "ingredients": {
+        "Wood Planks": [1, 2, 3],
+        "Cobblestone": [4, 7, 8],
+        "Iron Ingot": [5],
+        "Redstone": [6],
+        "Slimeball": [2]
+      },
+      "quantity": 1
+    },
+    {
+    "item": "Redstone Torch",
+    "ingredients": {
+    	"Stick": [4],
+    	"Redstone": [1]
+    	},
+     "quantity": 1
+    }
+  ]
+}
